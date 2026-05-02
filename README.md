@@ -41,3 +41,16 @@ This project recreates the classic Pac-Man gameplay, including movement, collisi
 ```bash
 git clone https://github.com/JuanesVM8/pacman-game.git
 cd pacman-game
+
+📁 Project Structure
+pacman-game/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+
+Future Improvements
+Improve ghost AI behavior
+Add levels and difficulty scaling
+Add sound effects
+Mobile support
